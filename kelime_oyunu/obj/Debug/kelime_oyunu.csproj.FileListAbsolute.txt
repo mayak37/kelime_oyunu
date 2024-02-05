@@ -1,0 +1,17 @@
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Form1.resources
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Properties.Resources.resources
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.exe
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.pdb
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.exe
+D:\ornekler\C#_net\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.exe
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.pdb
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.AssemblyReference.cache
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Form1.resources
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Properties.Resources.resources
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.GenerateResource.cache
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.exe
+C:\Users\55 bilgisayar\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
